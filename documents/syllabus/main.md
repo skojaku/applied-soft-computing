@@ -51,9 +51,9 @@ Announcements will be sent via Brightspace and Slack. Many course-related inform
 You will need to submit your code and a report on your work. Ideally, your code will be in well-documented Jupyter notebooks (e.g. see [Peter Norvig's notebooks](http://norvig.com/ipython/) or good Kaggle exploratory data visualization kernels). Also, you will create a 10-minute video (please adhere to the time limit) and upload it to YouTube. You have the option to either publish it or make it unlisted. The video can be in any format you prefer.
 
 ## Key date (working on it)
-- Project proposal due: 10/27
-- Project final paper due: 12/04
-- Presentation: 12/04
+- Project proposal due: 03/19
+- Project final paper due: 05/09
+- Presentation: 04/30
 - Final exam: During the final week of the semester
 
 ## Schedule
@@ -64,9 +64,9 @@ You will need to submit your code and a report on your work. Ideally, your code 
 - Week 2 (1/23, 1/25): Tour of machine learning using scikit-learn
 - Week 3 (1/30, 2/1): Data preprocessing
 - Week 4 (2/6, 2/8): Learning best practice for model evaluation and hyperparameter tuning
-- Week 5 (2/13, 2/15): Dimensionality reduction
+- Week 5 (2/13, 2/15): Project match making & Dimensionality reduction
 - Week 6 (2/20, 2/22): Regression
-- Week 7 (2/27, 2/29): Project match making & Unsupervised Learning
+- Week 7 (2/27, 2/29): Unsupervised Learning
 - Week 8 (3/5, 3/7): (Spring break)
 - Week 9 (3/12, 3/14): Unsupervised Learning (cont.) & Mechanics of PyTorch
 - Week 10 (3/19, 3/21): Modelling sequential data using recurrent neural networks
@@ -81,7 +81,7 @@ You will need to submit your code and a report on your work. Ideally, your code 
 ## Policies
 1. Be honest. Don’t be a cheater. Your assignments and papers should be your own work. If you find useful resources for your assignments, share them and cite them. If your friends helped you, acknowledge them. You should feel free to discuss both online and offline (except for the exam), but do not show your code directly. Any cases of academic misconduct (cheating, fabrication, plagiarism, etc) will be reported to the School and the Dean of Students, following the standard procedure. Cheating is not cool.
 2. If you are not able to attend the class in persons, please request us the excuse over emails one day before the class. We may not accept the excuses for reasons other than illness, accidents, job interviews, and conference travels.
-3. You have the responsibility of backing up all your data and code. Always back up your code and data. You should at least use Google Drive or Dropbox at the minimum. You can also use cloud services like Google Colaboratory. Ideally, learn version control systems and use https://github.iu.edu or https://github.com. Loss of data, code, or papers (e.g. due to malfunction of your laptop) is not an acceptable excuse for delayed or missing submission.
+3. You have the responsibility of backing up all your data and code. Always back up your code and data. You should at least use Google Drive or Dropbox at the minimum. You can also use cloud services like Google Colaboratory. Ideally, learn version control systems and use https://github.com. Loss of data, code, or papers (e.g. due to malfunction of your laptop) is not an acceptable excuse for delayed or missing submission.
 4. Disabilities. Every attempt will be made to accommodate qualified students with disabilities (e.g. mental health, learning, chronic health, physical, hearing, vision, neurological, etc.). You must have established your eligibility for support services through Services for Students with Disabilities. Note that services are confidential, may take time to put into place, and are not retroactive. Captions and alternate media for print materials may take three or more weeks to get produced. Please contact Disability Services for Students at  [https://www.binghamton.edu/ssd/index.html](https://www.binghamton.edu/ssd/index.html)  or 607-777-2686 as soon as possible if accommodations are needed.
 5. Bias-based incidents. Any act of discrimination or harassment based on race, ethnicity, religious affiliation, gender, gender identity, sexual orientation, or disability can be reported at [https://www.binghamton.edu/diversity-equity-inclusion/reportbias.html](https://www.binghamton.edu/diversity-equity-inclusion/reportbias.html) or to the Binghamton University Affirmative Action Officer at 607-777-4775.
 6. Sexual misconduct and Title IX. Title IX and BU’s Sexual Harassment Policy regard any form of sexual harassment as a violation of the standards of conduct required of all persons associated with the institution. If you have experienced sexual misconduct or know someone who has, you can ask support from the University Counseling Center at 607-777-2772 (counseling, advocacy, and advice services).  It is also important that you know that Title IX and University policy require me to share any information brought to my attention about potential sexual misconduct with the campus Deputy Title IX Coordinator or BU’s Title IX Coordinator. In that event, those individuals will work to ensure that appropriate measures are taken and resources are made available. Protecting student privacy is of utmost concern, and information will only be shared with those that need to know to ensure the University can respond and assist. Visit https://www.binghamton.edu/counseling/resources/faculty/assault.html and https://www.binghamton.edu/services/title-ix/index.html to learn more.
